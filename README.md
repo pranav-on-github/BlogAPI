@@ -7,7 +7,6 @@ Python Django CRUD API with MySQL and Django Rest Framework
 - Add comments to blog posts and retrieve comments for a specific blog post.
 - Like and dislike functionality for blog posts.
 - User authentication to protect sensitive operations.
--  File Upload support for adding images to blog posts.
 
 - ## API Endpoints
 
